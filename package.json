@@ -1,0 +1,23 @@
+{
+  "name": "fastify_demo",
+  "version": "1.0.0",
+  "description": "A simple use of fastify.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rokuto/Fastify_Demo.git"
+  },
+  "author": "Rokuto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rokuto/Fastify_Demo/issues"
+  },
+  "homepage": "https://github.com/Rokuto/Fastify_Demo#readme",
+  "dependencies": {
+    "fastify": "^1.6.0"
+  }
+}
